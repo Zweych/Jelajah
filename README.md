@@ -1,5 +1,5 @@
 # Jelajah
-AOL Software Engineering Kelompok 6
+AoL Software Engineering Kelompok 6
 
 Anggota :
 1. LEVINA JANE SAPUTRA_2602084836
